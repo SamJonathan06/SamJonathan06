@@ -55,24 +55,27 @@ Intelligent summarization tool for YouTube videos:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+<!-- Replace YOUR_GITHUB_USERNAME in the URLs below with your actual GitHub username -->
+<!-- Example: https://github-readme-stats.vercel.app/api/top-langs?username=samjonathanj06&layout=compact&theme=radical -->
+
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamJonathan06&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamJonathan06&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamJonathan06&show_icons=true&theme=radical)
 
 ### 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamJonathan06&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=SamJonathan06&theme=radical)
 
 ### 📫 Let's Connect
-- **Email**: sam.jonathanj06@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SamJonathan06&layout=compact&theme=radical)
 - **Phone**: +91 8220918068
 - **Location**: Salem, India
-- **GitHub**: https://github.com/SamJonathan06
-- **LinkedIn**: www.linkedin.com/in/sam-jonathan-bb7497297
-- **Portfolio**: [Link to your portfolio website]
+ **GitHub**: [SamJonathan06](https://github.com/SamJonathan06)
+- **LinkedIn**: [Your LinkedIn Profile]
 
 ---
+⭐️ From [Sam Jonathan J](https://github.com/SamJonathan06)
 
-⭐️ From [Sam Jonathan J](https://github.com/SamJonathan06)</content>
+⭐️ From [Sam Jonathan J](https://github.com/yourusername)</content>
 <parameter name="filePath">c:\Users\hp\Downloads\index.html\images\README.md
