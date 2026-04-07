@@ -76,7 +76,3 @@ Intelligent summarization tool for YouTube videos:
 - **LinkedIn**: www.linkedin.com/in/sam-jonathan-bb7497297
 
 ---
-⭐️ From [Sam Jonathan J](https://github.com/SamJonathan06)
-
-⭐️ From [Sam Jonathan J](https://github.com/SamJonathan06)</content>
-<parameter name="filePath">c:\Users\hp\Downloads\index.html\images\README.md
