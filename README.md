@@ -58,17 +58,16 @@ Intelligent summarization tool for YouTube videos:
 <!-- Replace YOUR_GITHUB_USERNAME in the URLs below with your actual GitHub username -->
 <!-- Example: https://github-readme-stats.vercel.app/api/top-langs?username=samjonathanj06&layout=compact&theme=radical -->
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamJonathan06&show_icons=true&theme=radical)
-
-### 🔥 GitHub Streak
+### 📈 GitHub Stats & Streak
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamJonathan06&show_icons=true&theme=radical)
 
 ### 🏆 GitHub Stats & Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=SamJonathan06&theme=radical)
 
-### 📫 Let's Connect
+### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SamJonathan06&layout=compact&theme=radical)
+
+### 📫 Let's Connect
 - **Phone**: +91 8220918068
 - **Location**: Salem, India
  **GitHub**: [SamJonathan06](https://github.com/SamJonathan06)
