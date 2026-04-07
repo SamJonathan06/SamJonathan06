@@ -64,7 +64,7 @@ Intelligent summarization tool for YouTube videos:
 ### 🔥 GitHub Streak
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamJonathan06&show_icons=true&theme=radical)
 
-### 🏆 Top Languages
+### 🏆 GitHub Stats & Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=SamJonathan06&theme=radical)
 
 ### 📫 Let's Connect
