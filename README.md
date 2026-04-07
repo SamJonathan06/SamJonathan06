@@ -59,7 +59,7 @@ Intelligent summarization tool for YouTube videos:
 <!-- Example: https://github-readme-stats.vercel.app/api/top-langs?username=samjonathanj06&layout=compact&theme=radical -->
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamJonathan06&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamJonathan06&show_icons=true&theme=radical)
@@ -72,10 +72,10 @@ Intelligent summarization tool for YouTube videos:
 - **Phone**: +91 8220918068
 - **Location**: Salem, India
  **GitHub**: [SamJonathan06](https://github.com/SamJonathan06)
-- **LinkedIn**: [Your LinkedIn Profile]
+- **LinkedIn**: www.linkedin.com/in/sam-jonathan-bb7497297
 
 ---
 ⭐️ From [Sam Jonathan J](https://github.com/SamJonathan06)
 
-⭐️ From [Sam Jonathan J](https://github.com/yourusername)</content>
+⭐️ From [Sam Jonathan J](https://github.com/SamJonathan06)</content>
 <parameter name="filePath">c:\Users\hp\Downloads\index.html\images\README.md
