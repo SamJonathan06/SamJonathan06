@@ -71,7 +71,8 @@ Intelligent summarization tool for YouTube videos:
 ### 📫 Let's Connect
 - **Phone**: +91 8220918068
 - **Location**: Salem, India
- **GitHub**: [SamJonathan06](https://github.com/SamJonathan06)
+- **Email**: sam.jonathanj06gamil.com
+ **GitHub**: (https://github.com/SamJonathan06)
 - **LinkedIn**: www.linkedin.com/in/sam-jonathan-bb7497297
 
 ---
