@@ -72,7 +72,7 @@ Intelligent summarization tool for YouTube videos:
 - **Phone**: +91 8220918068
 - **Location**: Salem, India
 - **Email**: sam.jonathanj06gamil.com
-- **GitHub**: (https://github.com/SamJonathan06)
+- **GitHub**: https://github.com/SamJonathan06
 - **LinkedIn**: www.linkedin.com/in/sam-jonathan-bb7497297
 
 ---
