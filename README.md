@@ -21,7 +21,7 @@ Sep 2021 – Apr 2025 | CGPA: 7.55/10
 CISCO (Remote)  
 - Completed a 3-month internship focused on Python 3 fundamentals
 - Gained expertise in OOP, data structures, control flow, and functions
-- Strengthened debugging, problem-solving, and logical thinking skills
+- Strengthened debugging, problem solving, and logical thinking skills
 - Improved self-learning, time management, and task prioritization
 
 ### 📊 Featured Projects
@@ -71,7 +71,7 @@ Intelligent summarization tool for YouTube videos:
 ### 📫 Let's Connect
 - **Phone**: +91 8220918068
 - **Location**: Salem, India
-- **Email**: sam.jonathanj06gamil.com
+- **Email**: sam.jonathanj06gmail.com
 - **GitHub**: https://github.com/SamJonathan06
 - **LinkedIn**: www.linkedin.com/in/sam-jonathan-bb7497297
 
