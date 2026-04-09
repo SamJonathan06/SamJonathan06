@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sam Jonathan J
 
-## 🚀 Aspiring Data Scientist
+## 🚀 Aspiring Data Analyst
 
-Aspiring Data Scientist with a solid foundation in data analytics, machine learning, and AI, skilled in Python, SQL, R, and predictive modeling. Experienced in extracting insights from structured and unstructured data and building data-driven solutions using deep learning and generative AI techniques.
+Aspiring Data Analyst with a solid foundation in data analytics, machine learning, and AI, skilled in Python, SQL, R, and predictive modeling. Experienced in extracting insights from structured and unstructured data and building data-driven solutions using deep learning and generative AI techniques.
 
 ### 🎓 Education
 **B.Tech Computer Science and Engineering**  
