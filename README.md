@@ -19,7 +19,7 @@ Sep 2021 – Apr 2025 | CGPA: 7.55/10
 ### 💼 Internship Experience
 **PCAP – Programming Essentials in Python**  
 CISCO (Remote)  
-- Completed a 3-month internship focused on Python 3 fundamentals
+- Completed a 3 month internship focused on Python 3 fundamentals
 - Gained expertise in OOP, data structures, control flow, and functions
 - Strengthened debugging, problem solving, and logical thinking skills
 - Improved self-learning, time management, and task prioritization
